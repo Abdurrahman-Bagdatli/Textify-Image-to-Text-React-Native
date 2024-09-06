@@ -1,6 +1,24 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## Introduction Video
 https://github.com/user-attachments/assets/9aeebf9f-796a-447b-9706-a4f5ca9b612b
+
+## Technologies Used in the Project
+- **React Native**
+- **HTTP GET/POST Requests**
+- **MySQL**
+- **Flask**
+- **React Navigation**
+- **Lottie Animation**
+- **React Native Vector Icons**
+- **Iconsax**
+- **React Native Image Crop Picker**
+- **Pytesseract**
+- **PIL**
+- **Redux**
+- **Git**
+- **GitHub**
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
