@@ -11,8 +11,8 @@ export default function App() {
       <NavigationContainer>
         <StackNavigation></StackNavigation>
       </NavigationContainer>
-      </Provider>
-   
+    </Provider>
+
   )
 }
 
